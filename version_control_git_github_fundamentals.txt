@@ -1,4 +1,4 @@
-1. What is Version Control and Why is it Important?
+i1. What is Version Control and Why is it Important?Explain in detail.
 
 Version control is a system that tracks changes made to files and code. It helps developers save different versions of a project and restore previous versions if needed.
 
