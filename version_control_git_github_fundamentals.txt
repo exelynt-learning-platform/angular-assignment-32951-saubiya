@@ -1,0 +1,36 @@
+Understanding Version Control, Git, and GitHub Fundamentals
+1. What is Version Control and Why is it Important?
+
+Version control is a system that tracks changes made to files and code. It helps developers save different versions of a project and restore previous versions if needed.
+
+Importance:
+
+Tracks changes
+Prevents data loss
+Makes teamwork easier
+Helps recover old versions
+2. Why Do Developers Use Git?
+
+Git is a version control tool used to manage code changes.
+
+Benefits:
+
+Tracks code changes
+Supports teamwork
+Allows branching and merging
+Helps restore previous versions
+3. Common Problems Git Solves
+Prevents code from being overwritten
+Tracks project history
+Makes team collaboration easier
+Helps recover from mistakes
+4. Difference Between Git and GitHub
+Git	GitHub
+Version control system	Online platform for Git repositories
+Works locally	Works online
+Tracks code changes	Stores and shares code
+5. Centralized vs Distributed Version Control
+Centralized	Distributed
+One central server	Each user has a full copy
+Needs server access	Can work offline
+Example: SVN	Example: Git
